@@ -30,5 +30,6 @@ public class LazyHash {
         System.out.println("Hash for 'abc': " + lazyHash(word3));
         System.out.println("Hash for 'ab': " + lazyHash(word4));
         System.out.println("Hash for 'Zebra': " + lazyHash(word5));
+        
     }
 }
